@@ -1,0 +1,22 @@
+{
+  "name": "uptrendmarketing",
+  "version": "1.0.0",
+  "description": "web site for up trend marketing ",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uptrendmarkting/uotrendfinal.git"
+  },
+  "keywords": [
+    "uiptrendmarketing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uptrendmarkting/uotrendfinal/issues"
+  },
+  "homepage": "https://github.com/uptrendmarkting/uotrendfinal#readme"
+}
